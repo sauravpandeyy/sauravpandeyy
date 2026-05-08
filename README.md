@@ -1,4 +1,4 @@
-## <p align="center"> I'm Saurav <img src="https://github.com/saurav-pandeyy/saurav-pandeyy/blob/main/assets/heyyy.gif" width="100"></p>
+## <p align="center"> I'm Saurav <img src="https://raw.githubusercontent.com/sauravpandeyy/sauravpandeyy/main/assets/heyyy.gif" width="100"></p>
 
 <div align="center">
   
@@ -16,7 +16,7 @@
 </div>
 <div align="center">
 
-<img src="https://github.com/saurav-pandeyy/saurav-pandeyy/blob/main/assets/cargif.gif" width="300">
+<img src="https://raw.githubusercontent.com/sauravpandeyy/sauravpandeyy/main/assets/cargif.gif" width="300">
 
 </div>
 <p align="center"><sup align="center"> What is this Earth without Cars? just a Rock!</sup><a><img src="https://cdn3.emoji.gg/emojis/9073-stone.png" width="24px" height="24px" alt="rock"></a></p>

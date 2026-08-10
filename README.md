@@ -8,6 +8,8 @@
 
 <div align="center">
 
+currently, i'm just fucking around to find out
+
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saurav0012pandey@gmail.com "Connect w/ me via Email")
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/791013655369089054 "Connect w/ me on Discord")
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-ff4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/FixGroundbreaking371/ "Connect w/ me on Reddit")

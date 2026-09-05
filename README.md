@@ -2,13 +2,11 @@
 
 <div align="center">
   
-  **`CS Undergrad • Misc`**
+  **`CS Undergrad`**
   
 </div>
 
 <div align="center">
-
-currently, i'm just fucking around to find out
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saurav0012pandey@gmail.com "Connect w/ me via Email")
